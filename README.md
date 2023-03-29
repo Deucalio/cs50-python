@@ -1,7 +1,7 @@
+
+
 # CS50's Introduction to Programming with Python
-##### An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
-#
-#
+ An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
 This repository contains my solutions to the problem sets for the CS50 Introduction to Programming with Python course.
 
 ## Disclaimer
