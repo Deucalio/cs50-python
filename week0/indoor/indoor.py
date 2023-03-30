@@ -1,1 +1,2 @@
-print("Hello there!")
+text = input()
+print(text.lower())
