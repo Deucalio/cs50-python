@@ -14,4 +14,5 @@ rate = res['bpi']['USD']['rate_float']
 
 cost = rate * float(number_of_bitcoins)
 output = "$"+"{:,}".format(cost)
+
 print(output)
